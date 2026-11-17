@@ -1,7 +1,6 @@
 # Python_Log_Cleanup_
 Cleaning up old logs and build artifacts on Linux servers using Python CLI
 
-# python-log-cleanup
 
 A small Python script that deletes old log files and build artifacts from a folder. I wrote it to practise Python scripting on Linux, based on a problem I see in real systems: logs and build output pile up until a disk fills.
 
