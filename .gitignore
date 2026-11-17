@@ -1,0 +1,4 @@
+__pycache__/
+*.log
+testdata/
+cleanup_stage*.py
